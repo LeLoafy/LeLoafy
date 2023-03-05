@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luvianto</h1>
-<h3 align="center">A college student from Indonesia</h3>
+<h3 align="center">A college student from Indonesia
+Multi Data Palembang
+Information System</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luvianto&label=Profile%20views&color=0e75b6&style=flat" alt="luvianto" /> </p>
 
